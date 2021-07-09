@@ -1,2 +1,3 @@
 # Traffic_Light_Controller
-VHDL Project
+
+Project Creators: Soumya Raj, Kartikey Sharma, Naveen Mahanwal, Manu Mahajan
