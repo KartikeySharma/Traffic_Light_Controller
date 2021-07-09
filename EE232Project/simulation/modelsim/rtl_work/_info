@@ -1,0 +1,106 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\uttam\Desktop\EE232Project\simulation\modelsim
+Earbiter
+Z1 w1607454821
+Z2 DPx4 work 9 ee232proj 0 22 0FoFJiME]fNPkYkESME]h3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dC:\Users\uttam\Desktop\EE232Project\simulation\modelsim
+Z8 8C:/Users/uttam/Desktop/EE232Project/ARBITER.vhd
+Z9 FC:/Users/uttam/Desktop/EE232Project/ARBITER.vhd
+l0
+L13
+VgcPSmPEECSmfhJlkc?iZ[1
+Z10 OV;C;10.1d;51
+31
+Z11 !s108 1607455726.593000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/uttam/Desktop/EE232Project/ARBITER.vhd|
+Z13 !s107 C:/Users/uttam/Desktop/EE232Project/ARBITER.vhd|
+Z14 o-93 -work work -O0
+Z15 tExplicit 1
+!s100 _13=9X3omH9a`ZK[>GhMz2
+!i10b 1
+Astruct
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 arbiter 0 22 gcPSmPEECSmfhJlkc?iZ[1
+l32
+L28
+VcaXaNR<OfkKa2^2k2>]^a3
+R10
+31
+R11
+R12
+R13
+R14
+R15
+!s100 ]a]:ag62_6W=18iLN;OAg3
+!i10b 1
+Pee232proj
+R5
+R6
+w1607398226
+R7
+8C:/Users/uttam/Desktop/EE232Project/EE232PROJ.vhd
+FC:/Users/uttam/Desktop/EE232Project/EE232PROJ.vhd
+l0
+L4
+V0FoFJiME]fNPkYkESME]h3
+R10
+31
+R14
+R15
+!s100 b=hGA?4@lUQUF<__`7^A41
+!i10b 1
+!s108 1607455726.499000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/uttam/Desktop/EE232Project/EE232PROJ.vhd|
+!s107 C:/Users/uttam/Desktop/EE232Project/EE232PROJ.vhd|
+Etraffic_controller_with_sensors
+Z16 w1607455667
+R2
+R3
+R4
+R5
+R6
+R7
+Z17 8C:/Users/uttam/Desktop/EE232Project/TRAFFIC_CONTROLLER_WITH_SENSORS.vhd
+Z18 FC:/Users/uttam/Desktop/EE232Project/TRAFFIC_CONTROLLER_WITH_SENSORS.vhd
+l0
+L14
+VD<k9LFFMWPJVK>1SfTjnV2
+!s100 ZQV42z;j64K91EDH_5FMN3
+R10
+31
+!i10b 1
+Z19 !s108 1607455726.706000
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/uttam/Desktop/EE232Project/TRAFFIC_CONTROLLER_WITH_SENSORS.vhd|
+Z21 !s107 C:/Users/uttam/Desktop/EE232Project/TRAFFIC_CONTROLLER_WITH_SENSORS.vhd|
+R14
+R15
+Astruct
+R2
+R3
+R4
+R5
+R6
+DEx4 work 31 traffic_controller_with_sensors 0 22 D<k9LFFMWPJVK>1SfTjnV2
+l36
+L27
+VVLQdDe^h5KnTH^XA13bNn2
+!s100 bV2Qo[A?XNG8^zh0XW]=<0
+R10
+31
+!i10b 1
+R19
+R20
+R21
+R14
+R15
