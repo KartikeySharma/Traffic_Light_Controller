@@ -9,3 +9,24 @@ directs the unit to light the main and side street lights at
 appropriate times for the specified time intervals. This unit
 depends on several inputs which are generated outside the
 system.
+
+### System Overview
+A set of 4 traffic lights have been designed for a 4-way
+junction as shown in the figure. Only one green signal will be
+activated at a time. We give a continuous clock input. This
+design uses a standard two process finite state machine
+where one process is used to change states on every clock
+cycle while the other process is used to combinatorially
+calculate what the next state should be based on the current
+inputs and the current state.
+
+### Components Implemented
+- Finite State Machine (FSM)
+- Arbiter Circuit (for prioritising the traffic light)
+
+### Simulation Images
+
+<p float="left">
+  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_1.png" width="250" />
+  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_2.png" width="250" /> 
+</p>
