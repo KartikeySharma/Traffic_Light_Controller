@@ -26,7 +26,7 @@ inputs and the current state.
 
 ### Simulation Images
 
-<p float="left">
-  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_1.png" height="250" />
-  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_2.png" height="250" /> 
+<p float="center">
+  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_1.png" height="300" />
+  <img src="https://github.com/KartikeySharma/Traffic_Light_Controller/blob/master/imgs/SIMULATION_2.png" height="300" /> 
 </p>
