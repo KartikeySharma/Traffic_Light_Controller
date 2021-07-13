@@ -22,7 +22,7 @@ inputs and the current state.
 
 ### Components Implemented
 - Finite State Machine (FSM)
-- Arbiter Circuit (for prioritising the traffic light)
+- Arbiter Circuit (for prioritising the traffic lights)
 
 ### Simulation Images
 
