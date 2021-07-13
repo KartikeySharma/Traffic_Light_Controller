@@ -1,3 +1,3 @@
 # Traffic_Light_Controller
 
-Project Creators: Soumya Raj, Kartikey Sharma, Naveen Mahanwal, Manu Mahajan
+<h3 align="center"> Project Creators: Soumya Raj, Kartikey Sharma, Naveen Mahanwal, Manu Mahajan </h3>
