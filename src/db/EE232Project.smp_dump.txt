@@ -1,0 +1,7 @@
+
+State Machine - |TRAFFIC_CONTROLLER|current_state
+Name current_state.HRED_FYEL current_state.HRED_FGRE current_state.HYEL_FRED current_state.HGRE_FRED 
+current_state.HGRE_FRED 0 0 0 0 
+current_state.HYEL_FRED 0 0 1 1 
+current_state.HRED_FGRE 0 1 0 1 
+current_state.HRED_FYEL 1 0 0 1 
